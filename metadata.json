@@ -1,0 +1,6 @@
+{
+  "name": "ORVINA Shayari Studio",
+  "description": "An elegant, AI-powered Shayari generator that crafts custom Urdu/Hindi poetry for any word or emotion using Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
